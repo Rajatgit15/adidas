@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adidas/static/css/main.1d71f801.css",
-    "main.js": "/adidas/static/js/main.b3f50f9e.js",
-    "static/js/787.1fee1fb8.chunk.js": "/adidas/static/js/787.1fee1fb8.chunk.js",
-    "index.html": "/adidas/index.html",
-    "main.1d71f801.css.map": "/adidas/static/css/main.1d71f801.css.map",
-    "main.b3f50f9e.js.map": "/adidas/static/js/main.b3f50f9e.js.map",
-    "787.1fee1fb8.chunk.js.map": "/adidas/static/js/787.1fee1fb8.chunk.js.map"
+    "main.css": "/adidas.github.io/static/css/main.1d71f801.css",
+    "main.js": "/adidas.github.io/static/js/main.a31efe07.js",
+    "static/js/787.1fee1fb8.chunk.js": "/adidas.github.io/static/js/787.1fee1fb8.chunk.js",
+    "index.html": "/adidas.github.io/index.html",
+    "main.1d71f801.css.map": "/adidas.github.io/static/css/main.1d71f801.css.map",
+    "main.a31efe07.js.map": "/adidas.github.io/static/js/main.a31efe07.js.map",
+    "787.1fee1fb8.chunk.js.map": "/adidas.github.io/static/js/787.1fee1fb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d71f801.css",
-    "static/js/main.b3f50f9e.js"
+    "static/js/main.a31efe07.js"
   ]
 }
